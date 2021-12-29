@@ -1,0 +1,320 @@
+.horizontal_line{
+    margin: 30px; background-color: #dedfe5;
+    border: 5px solid #000;
+ 
+ }
+ .header{
+     width: 100%;
+     height: 70px;
+     background-color: red;
+ }
+ 
+ .logo{
+    
+         background-color: white;
+         width: 50px;
+         height: 50px;
+         color: red;
+         border-radius: 50%;
+         text-align: center;
+         font-size: 40px;
+         margin-left: 1%;
+         display: inline-block;
+         margin: 10px 0px 10px 50px;
+         display: inline-block;
+     
+ }
+ .login{
+    display: inline-block;
+ }
+ 
+ .collapse{
+     display: inline-block; float: left; margin: 4px 10px 0px 0px;
+ }
+ 
+ .main-head{
+     float: right;
+     margin: 20px;
+     font-size: 20px;
+ }
+ 
+ .create-acc{
+    margin-left: 14px;
+   
+ }
+ 
+ .image_main_box{
+     display: inline-block; vertical-align: top;
+     margin-top: 10px;
+ }
+ 
+ .image{
+     width: 120px; height: 120px;  margin: 25px 0px 0px 35px; border-radius: 10%; box-shadow: rgb(211, 3, 3);
+  
+ }
+ 
+ .Breakfast-Places-in-Mumbai {
+ width: 512px;
+ height: 51px;
+ margin: 37px 25px 27px 113px;
+ font-family: Poppins;
+ font-size: 36px;
+ font-weight: bold;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.53;
+ letter-spacing: normal;
+ text-align: left;
+ color: #192f60;
+ }
+ 
+ .filter-box{
+ box-shadow: 0 3px 6px 0 rgba(187, 207, 8, 0.16);
+ height: 680px;
+ margin-left: 113px;
+ width:20%;
+ 
+ }
+ .item{
+     width: 1000px;
+ height: 308px;
+ box-shadow: 0 3px 6px 0 rgba(226, 8, 8, 0.16);
+ background-color: #ffffff;
+ margin-left: 20px;
+ 
+ 
+ }
+ 
+ 
+ .main-box{
+ 
+ height: 650px;
+ }
+ 
+ .Filters {
+ width: 55px;
+ height: 25px;
+ 
+ font-family: Poppins;
+ font-size: 18px;
+ font-weight: 600;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ text-align: left;
+ color: #192f60;
+ margin: 17px 0px 0px 26px;
+ }
+ 
+ .select-Location {
+ width: 106px;
+ height: 20px;
+ 
+ font-family: Poppins;
+ font-size: 15px;
+ font-weight: bold;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ text-align: left;
+ color: #192f60;
+ margin: 10px 0px 0px 26px;
+ }
+ 
+ .select {
+ margin: 10px 0 22px 23px;
+ 
+ 
+ }
+ 
+ .select_main{
+     width: 150px; height: 23px;
+ }
+ .Cuisine {
+ width: 51px;
+ height: 20px;
+ 
+ font-family: Poppins;
+ font-size: 15px;
+ font-weight: bold;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ margin: 0px 0px 15px 23px;
+ color: #192f60;
+ }
+ 
+ .dishes{
+ 
+ 
+ font-family: Poppins;
+ font-size: 15px;
+ font-weight: bold;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ text-align: left;
+ color: #8c96ab;
+ margin-left: 23px;
+ 
+ 
+ }
+ 
+ .Cost-For-Two {
+ 
+ font-family: Poppins;
+ font-size: 15px;
+ font-weight: bold;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ margin-top: 12px;
+ margin-left: 23px;
+ color: #192f60;
+ }
+ 
+ .radio{
+ 
+ font-family: poppins;
+ font-weight: bold;
+ margin: 5px 0px 0px 23px;
+ 
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ text-align: left;
+ color: #8c96ab;
+ 
+ 
+ }
+ .q .text-style-1 {
+ font-family: RupeeForadian;
+ }
+ 
+ .Sort {
+ margin: 10px 0px 10px 23px;
+ font-family: Poppins;
+ font-size: 18px;
+ font-weight: 600;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ text-align: left;
+ color: #192f60;
+ }
+ 
+ .Price-low-to-high {
+ margin: 5px 0px 0px 23px;
+ font-family: Poppins;
+ font-size: 14px;
+ font-weight: bold;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: normal;
+ text-align: left;
+ color: #8c96ab;
+ }
+ 
+ .The-Big-Chill-Cakery {
+ 
+ font-family: Poppins;
+ font-size: 30px;
+ font-weight: 600;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.53;
+ letter-spacing: normal;
+ text-align: left;
+ color: #192f60;
+ margin-top: 30px;
+ margin-left: 55px;
+ display: inline-block; vertical-align: top;
+ 
+ }
+ 
+ .FORT {
+ font-size: 24px;
+ font-weight: 500;
+ }
+ 
+ 
+ .Shop-1-Plot-D-Samruddhi-Complex-Chincholi- {
+ 
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: normal;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.88;
+ letter-spacing: normal;
+ text-align: left;
+ color: #636f88;
+ }
+ 
+ .CUISINES-COST-FOR-TWO {
+ 
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: normal;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.88;
+ letter-spacing: normal;
+ text-align: left;
+ color: #636f88;
+ margin-left: 30px;
+ display: inline-block;
+ }
+ 
+ .Bakery-700 {
+ 
+ font-family: Poppins;
+ font-size: 16px;
+ font-weight: normal;
+ font-stretch: normal;
+ font-style: normal;
+ line-height: 1.88;
+ letter-spacing: normal;
+ text-align: left;
+ color: #636f88;
+ margin-left: 55px;
+ display: inline-block; vertical-align: top;
+ }
+ 
+ @media only screen and (min-width:300px) and (max-width:792px)
+ {
+     .item{
+         width: 500px;
+     height: 500px;
+     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+     background-color: #ffffff;
+     margin-left: 20px;
+     }
+     .filter-box{
+         box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+         height: 680px;
+         margin-left: 113px;
+         width:40%
+         }
+      
+ }
+ 
+ 
+ /*css ends here for the given code*/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
